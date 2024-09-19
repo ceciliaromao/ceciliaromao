@@ -2,7 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ceciliaromao&label=Profile%20views&color=0e75b6&style=flat" alt="ceciliaromao" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceciliaromao" alt="ceciliaromao" /></a> </p>
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ceciliaromao?tab=repositories)
 
@@ -54,18 +53,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digital ocean" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
 </p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stellar.svg" alt="stellar" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="stellar" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="stellar" width="40" height="40"/>
-  <img src="https://vectorwiki.com/images/JCpNh__metamask-icon.svg" alt="stellar" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="ethereum" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="hyperledger" width="40" height="40"/>
+  <img src="https://vectorwiki.com/images/JCpNh__metamask-icon.svg" alt="metamask" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceciliaromao&show_icons=true&locale=en&layout=compact" alt="ceciliaromao" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceciliaromao&show_icons=true&locale=en&layout=compact" alt="ceciliaromao" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceciliaromao&show_icons=true&locale=en" alt="ceciliaromao" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ceciliaromao&show_icons=true&locale=en" alt="ceciliaromao" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceciliaromao&" alt="ceciliaromao" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceciliaromao&" alt="ceciliaromao" /></p>
